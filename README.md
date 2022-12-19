@@ -1,14 +1,20 @@
 # Landing Page Project
 
-# Table of contents
+## Table of contents
 
 > - Project description
 > - Usage
 
-# Project description
+## Project description
 
-The landing page are contain a multi-section that have been added to the page.Using HTML , CSS and Javascript.
+The landing page are contain a multi-section that have been added to the page.
 
-# Usage
+## Usage
 
 The project is a part of Nanodegree Front End Web Developer prgram .
+
+## Built with
+- HTML
+- CSS
+- Javascript
+
